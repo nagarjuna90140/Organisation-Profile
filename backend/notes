@@ -1,0 +1,43 @@
+
+
+{
+
+"legalname":"Adi",
+      "groupname":"zeta",
+      "ermname":"zetaname",
+      "industrysector":"yes",
+      "noofemployees":"40",
+      "turnoverrange":"50%",
+      "turnovervalue":"25000",
+      "websiteurl":"www.adi.com",
+      "orgemail":"akumatha@gmail.com",
+      "phonenumber":"8341553126",
+      "address":"Hyderabad",
+      "organization_aditional_info":"Delhi new",
+     " erpvender":"sunitha",
+      "selector_year":"2023",
+      "additional_info":"top level"
+
+}
+
+
+
+
+
+
+legalname
+groupname
+ermname
+industrysector
+noofemployees
+turnoverrange
+turnovervalue
+websiteurl
+orgemail
+phonenumber
+address
+organization_aditional_info
+erpvender
+selector_year
+additional_info
+
